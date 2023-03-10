@@ -1,0 +1,17 @@
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\obj\Debug\net5.0\BussinesLayer.csproj.AssemblyReference.cache
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\obj\Debug\net5.0\BussinesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\obj\Debug\net5.0\BussinesLayer.AssemblyInfoInputs.cache
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\obj\Debug\net5.0\BussinesLayer.AssemblyInfo.cs
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\obj\Debug\net5.0\BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\bin\Debug\net5.0\BussinesLayer.deps.json
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\bin\Debug\net5.0\BussinesLayer.dll
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\bin\Debug\net5.0\BussinesLayer.pdb
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\obj\Debug\net5.0\BussinesLayer.csproj.CopyComplete
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\obj\Debug\net5.0\BussinesLayer.dll
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\obj\Debug\net5.0\refint\BussinesLayer.dll
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\obj\Debug\net5.0\BussinesLayer.pdb
+C:\Users\mfe06\source\repos\ImageSelect\BussinesLayer\obj\Debug\net5.0\ref\BussinesLayer.dll

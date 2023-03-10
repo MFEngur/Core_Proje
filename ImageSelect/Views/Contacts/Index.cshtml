@@ -1,0 +1,10 @@
+﻿
+<p>@ViewData["deneme"]</p>
+@using (Html.BeginForm("Index", "Contacts", FormMethod.Post))
+{
+	<form method="post">
+	<img style="width: 750px; height: 450px;"src="~/@ViewData["deneme"]" />
+	<button type="submit">Resim Değiştir</button>
+</form>
+}
+

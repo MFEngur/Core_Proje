@@ -1,0 +1,50 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <partial name="~/Views/Admin/PartialHead.cshtml" />
+</head>
+
+<body>
+    <!-- Sidenav -->
+    <nav class="sidenav navbar navbar-vertical  fixed-left  navbar-expand-xs navbar-light bg-white" id="sidenav-main">
+        <div class="scrollbar-inner">
+            <!-- Brand -->
+            <div class="sidenav-header  align-items-center">
+                <a class="navbar-brand" href="javascript:void(0)">
+                    <img src="~/argon-dashboard-master/assets/img/brand/blue.png" class="navbar-brand-img" alt="...">
+                </a>
+            </div>
+            <partial name="~/Views/Admin/PartialSideBar.cshtml" />
+        </div>
+    </nav>
+    <!-- Main content -->
+    <div class="main-content" id="panel">
+        <!-- Topnav -->
+         <partial name="~/Views/Admin/PartialNavBar.cshtml" />
+        <!-- Header -->
+        <!-- Header -->
+        <partial name ="~/Views/Admin/PartialNavigation.cshtml"/>
+        <!-- Page content -->
+        <div class="container-fluid mt--6">
+            <div class="row">
+                <div class="col">
+                    @RenderBody()
+                </div>
+            </div>
+            
+            
+            <partial name="~/Views/Admin/PartialFooter.cshtml" />
+        </div>
+    </div>
+    <!-- Argon Scripts -->
+    <!-- Core -->
+    <partial name="~/Views/Admin/PartialScript.cshtml" />
+</body>
+
+</html>
